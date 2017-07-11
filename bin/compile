@@ -2,4 +2,4 @@
 
 sass --sourcemap=none --style compressed github-dark.sass github-dark.min.css
 
-cat github-dark.min.css | xclip -selection c
+cat github-dark.min.css | xclip -sel clipboard
